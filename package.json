@@ -1,0 +1,22 @@
+{
+  "name": "p5-export",
+  "version": "1.0.0",
+  "description": "This wrapper can help you easely export your p5.js sketch as a webm video using CCapture.js",
+  "main": "sketch-export.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucacattan3o/p5.js-export.git"
+  },
+  "keywords": [
+    "p5",
+    "video",
+    "webm",
+    "CCapture"
+  ],
+  "author": "Luca Cattaneo (https://lucacattan3o.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucacattan3o/p5.js-export/issues"
+  },
+  "homepage": "https://github.com/lucacattan3o/p5.js-export#readme"
+}
