@@ -1,4 +1,4 @@
-let fps = 30;
+let fps = 60;
 
 function setup() {
   createCanvas(400, 400);

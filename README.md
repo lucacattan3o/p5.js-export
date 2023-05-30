@@ -1,6 +1,8 @@
 # p5.js Sketch Export
 
-This wrapper can help you export your [p5.js](https://p5js.org/) sketch using [CCapture.js](https://github.com/spite/ccapture.js/) library.
+This wrapper can help you easely export your [p5.js](https://p5js.org/) sketch as a webm video using [CCapture.js](https://github.com/spite/ccapture.js/) library.
+
+It can also be used to record interactions (eg. mouse interactions, music interaction) before the final export.
 
 ## Demo
  
