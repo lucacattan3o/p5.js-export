@@ -2,6 +2,16 @@
 
 This wrapper can help you export your [p5.js](https://p5js.org/) sketch using [CCapture.js](https://github.com/spite/ccapture.js/) library.
 
+## Demo
+ 
+Check the [demo](https://lucacattan3o.github.io/p5.js-export/demo/index.html) and open the console in the browser.
+
+Add `?export=true` to the url to start the export.
+
+Full url:
+
+https://lucacattan3o.github.io/p5.js-export/demo/index.html?export=true
+
 ## Setup
 
 Load CCapture and sketch-export in your project.
@@ -50,7 +60,7 @@ The sketch is now ready to be exported.
 
 ## Export the sketch
 
-To start the export, add `?export=true` to the url.
+To start the export, add `?export=true` to the url. Example:
 
 ```
 http://127.0.0.1:5500/demo/?export=true
