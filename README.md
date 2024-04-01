@@ -16,7 +16,7 @@ https://lucacattan3o.github.io/p5.js-export/demo/index.html?export=true
 
 ## Setup
 
-Load [CCapture](https://github.com/spite/ccapture.js/) and `sketch-export` in your project.
+Load [CCapture](https://github.com/spite/ccapture.js/) and `p5-export` in your project.
 
 ```html
 <script src="CCapture.all.min.js"></script>
